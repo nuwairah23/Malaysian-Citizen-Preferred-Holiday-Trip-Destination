@@ -1,0 +1,351 @@
+age,gender,budget,noOfStays,timing,typeOfTravel,destination,activities,transport,planning,package,foodplace,attractions,accommodation,cancelPolicy
+21,Female,2000,3,End of the year,Normal travel,Towns,Water activities,Personal Vehicle,Tour,Yes,Western/Steak house,Man-made Attractions,Hotels,Yes
+21,Female,5000,4,Middle of the year,Backpacking,Islands,Water activities,Booking a flight,Self Explore,No,Seafood Restaurants,Natural Attractions,Resorts,Yes
+22,Female,800,4,End of the year,Normal travel,Islands,Leisure activities,Booking a flight,Self Explore,Yes,Western/Steak house,Cultural Attractions,Hotels,Yes
+32,Female,1200,4,End of the year,Normal travel,Towns,Outdoor activities,Personal Vehicle,Self Explore,No,Western/Steak house,Natural Attractions,Apartments,Yes
+36,Female,1200,3,End of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Western/Steak house,Man-made Attractions,Hotels,Yes
+24,Male,500,3,End of the year,Backpacking,Towns,Leisure activities,Trains,Tour,No,Seafood Restaurants,Man-made Attractions,Hotels,Yes
+20,Female,500,3,Middle of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Nasi padang/campur,Man-made Attractions,Hotels,Yes
+25,Male,3000,3,Middle of the year,Normal travel,Islands,Leisure activities,Personal Vehicle,Tour,Yes,Hotel buffet,Natural Attractions,Resorts,Yes
+69,Male,1,1,Middle of the year,Backpacking,Islands,Outdoor activities,Busses,Tour,Yes,Seafood Restaurants,Man-made Attractions,Resorts,No
+21,Male,3000,14,End of the year,Normal travel,Islands,Water activities,Booking a flight,Self Explore,No,Seafood Restaurants,Cultural Attractions,Chalets,Yes
+21,Female,200,1,Middle of the year,Normal travel,Towns,Outdoor activities,Booking a flight,Self Explore,No,Western/Steak house,Man-made Attractions,Hotels,Yes
+21,Female,3000,5,Early of the year,Normal travel,Islands,Water activities,Booking a flight,Self Explore,No,Hotel buffet,Man-made Attractions,Resorts,Yes
+19,Female,5000,5,End of the year,Normal travel,Towns,Outdoor activities,Personal Vehicle,Tour,Yes,Western/Steak house,Man-made Attractions,Hotels,Yes
+24,Female,1500,3,Middle of the year,Normal travel,Islands,Water activities,Personal Vehicle,Self Explore,Yes,Nasi padang/campur,Man-made Attractions,Hotels,Yes
+26,Female,3000,5,Middle of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Man-made Attractions,Hotels,Yes
+19,Male,10000,12,Early of the year,Backpacking,Islands,Outdoor activities,Trains,Tour,Yes,Hotel buffet,Natural Attractions,Resorts,Yes
+21,Male,10000,14,Middle of the year,Normal travel,Islands,Leisure activities,Booking a flight,Self Explore,Yes,Nasi padang/campur,Natural Attractions,Apartments,Yes
+24,Male,1600,4,Early of the year,Normal travel,Towns,Water activities,Personal Vehicle,Self Explore,No,Western/Steak house,Cultural Attractions,Apartments,Yes
+40,Female,2500,3,End of the year,Normal travel,Islands,Outdoor activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Natural Attractions,Apartments,Yes
+13,Male,4000,16,End of the year,Backpacking,Islands,Outdoor activities,Booking a flight,Self Explore,Yes,Seafood Restaurants,Man-made Attractions,Hotels,Yes
+32,Female,1200,4,End of the year,Normal travel,Towns,Outdoor activities,Personal Vehicle,Self Explore,No,Western/Steak house,Natural Attractions,Apartments,Yes
+21,Female,6000,12,End of the year,Normal travel,Towns,Leisure activities,Booking a flight,Self Explore,No,Western/Steak house,Cultural Attractions,Hotels,Yes
+49,Female,1500,3,End of the year,Normal travel,Islands,Leisure activities,Personal Vehicle,Self Explore,No,Hotel buffet,Natural Attractions,Resorts,Yes
+27,Male,1000,3,End of the year,Backpacking,Towns,Leisure activities,Personal Vehicle,Self Explore,Yes,Nasi padang/campur,Man-made Attractions,Hotels,Yes
+49,Female,1500,3,End of the year,Normal travel,Islands,Leisure activities,Personal Vehicle,Self Explore,No,Hotel buffet,Natural Attractions,Resorts,Yes
+26,Female,2000,3,End of the year,Normal travel,Islands,Water activities,Booking a flight,Tour,Yes,Seafood Restaurants,Natural Attractions,Resorts,Yes
+24,Male,1600,4,Early of the year,Backpacking,Towns,Outdoor activities,Trains,Self Explore,No,Nasi padang/campur,Natural Attractions,Apartments,Yes
+21,Male,3000,4,Middle of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,Yes,Hotel buffet,Cultural Attractions,Apartments,Yes
+39,Female,1500,4,Middle of the year,Normal travel,Islands,Outdoor activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Natural Attractions,Hotels,Yes
+36,Female,1200,3,End of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Western/Steak house,Man-made Attractions,Hotels,Yes
+21,Male,3000,4,End of the year,Normal travel,Islands,Outdoor activities,Personal Vehicle,Tour,Yes,Nasi padang/campur,Man-made Attractions,Resorts,Yes
+31,Male,800,4,Middle of the year,Normal travel,Towns,Water activities,Personal Vehicle,Self Explore,Yes,Seafood Restaurants,Man-made Attractions,Resorts,Yes
+22,Male,3000,4,Middle of the year,Normal travel,Islands,Water activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Man-made Attractions,Resorts,Yes
+27,Male,2500,10,End of the year,Backpacking,Islands,Outdoor activities,Personal Vehicle,Self Explore,Yes,Nasi padang/campur,Natural Attractions,Resorts,Yes
+21,Female,2000,5,End of the year,Normal travel,Towns,Water activities,Booking a flight,Tour,Yes,Nasi padang/campur,Natural Attractions,Hotels,Yes
+22,Female,1000,2,End of the year,Backpacking,Islands,Leisure activities,Busses,Self Explore,No,Nasi padang/campur,Natural Attractions,Hotels,Yes
+24,Female,2000,4,End of the year,Normal travel,Islands,Leisure activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Cultural Attractions,Hotels,Yes
+21,Female,2000,5,Early of the year,Normal travel,Islands,Leisure activities,Booking a flight,Tour,Yes,Seafood Restaurants,Natural Attractions,Hotels,Yes
+40,Male,2000,3,End of the year,Backpacking,Islands,Water activities,Personal Vehicle,Self Explore,Yes,Seafood Restaurants,Cultural Attractions,Resorts,Yes
+19,Female,5000,5,End of the year,Normal travel,Towns,Outdoor activities,Personal Vehicle,Tour,Yes,Western/Steak house,Man-made Attractions,Hotels,Yes
+21,Male,10000,30,End of the year,Normal travel,Islands,Outdoor activities,Personal Vehicle,Self Explore,No,Western/Steak house,Natural Attractions,Apartments,Yes
+21,Male,400,4,End of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,Yes,Seafood Restaurants,Man-made Attractions,Resorts,Yes
+32,Female,1200,4,End of the year,Normal travel,Towns,Outdoor activities,Personal Vehicle,Self Explore,No,Western/Steak house,Natural Attractions,Apartments,Yes
+25,Male,4500,7,End of the year,Backpacking,Towns,Leisure activities,Booking a flight,Tour,Yes,Hotel buffet,Man-made Attractions,Hotels,Yes
+24,Female,1500,3,Middle of the year,Normal travel,Islands,Water activities,Personal Vehicle,Self Explore,Yes,Nasi padang/campur,Man-made Attractions,Hotels,Yes
+21,Male,3000,14,End of the year,Normal travel,Islands,Water activities,Booking a flight,Self Explore,No,Seafood Restaurants,Cultural Attractions,Chalets,Yes
+27,Male,40000,14,End of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,Yes,Western/Steak house,Natural Attractions,Hotels,No
+32,Female,1200,4,End of the year,Normal travel,Towns,Outdoor activities,Personal Vehicle,Self Explore,No,Western/Steak house,Natural Attractions,Apartments,Yes
+31,Male,800,4,Middle of the year,Normal travel,Towns,Water activities,Personal Vehicle,Self Explore,Yes,Seafood Restaurants,Man-made Attractions,Resorts,Yes
+21,Male,1000,5,Middle of the year,Normal travel,Islands,Leisure activities,Booking a flight,Self Explore,Yes,Seafood Restaurants,Cultural Attractions,Resorts,Yes
+21,Male,3000,3,End of the year,Normal travel,Towns,Water activities,Personal Vehicle,Self Explore,No,Western/Steak house,Man-made Attractions,Resorts,Yes
+21,Female,1000,4,Middle of the year,Normal travel,Towns,Outdoor activities,Trains,Self Explore,No,Hotel buffet,Natural Attractions,Hotels,Yes
+19,Male,1800,5,End of the year,Backpacking,Islands,Water activities,Booking a flight,Self Explore,Yes,Seafood Restaurants,Man-made Attractions,Resorts,No
+31,Male,800,4,Middle of the year,Normal travel,Towns,Water activities,Personal Vehicle,Self Explore,Yes,Seafood Restaurants,Man-made Attractions,Resorts,Yes
+21,Male,400,4,End of the year,Backpacking,Islands,Water activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Cultural Attractions,Resorts,Yes
+28,Female,1000,4,End of the year,Normal travel,Islands,Leisure activities,Personal Vehicle,Self Explore,Yes,Seafood Restaurants,Natural Attractions,Chalets,Yes
+21,Female,2000,5,End of the year,Normal travel,Towns,Water activities,Booking a flight,Tour,Yes,Nasi padang/campur,Natural Attractions,Hotels,Yes
+32,Female,1200,4,End of the year,Normal travel,Towns,Outdoor activities,Personal Vehicle,Self Explore,No,Western/Steak house,Natural Attractions,Apartments,Yes
+21,Female,1000,3,End of the year,Normal travel,Islands,Outdoor activities,Personal Vehicle,Self Explore,Yes,Seafood Restaurants,Man-made Attractions,Resorts,Yes
+21,Female,700,3,Middle of the year,Normal travel,Islands,Water activities,Personal Vehicle,Self Explore,Yes,Seafood Restaurants,Natural Attractions,Hotels,Yes
+32,Female,1200,4,End of the year,Normal travel,Towns,Outdoor activities,Personal Vehicle,Self Explore,No,Western/Steak house,Natural Attractions,Apartments,Yes
+20,Female,1000,3,End of the year,Backpacking,Islands,Water activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Man-made Attractions,Chalets,Yes
+21,Female,5000,7,Early of the year,Normal travel,Islands,Leisure activities,Booking a flight,Tour,Yes,Western/Steak house,Natural Attractions,Hotels,No
+22,Female,500,3,End of the year,Normal travel,Islands,Water activities,Personal Vehicle,Self Explore,Yes,Nasi padang/campur,Man-made Attractions,Resorts,No
+18,Female,3000,3,End of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Western/Steak house,Natural Attractions,Apartments,No
+54,Female,10000,3,End of the year,Normal travel,Islands,Leisure activities,Personal Vehicle,Self Explore,No,Hotel buffet,Natural Attractions,Apartments,Yes
+21,Female,3500,7,End of the year,Normal travel,Islands,Water activities,Personal Vehicle,Tour,Yes,Seafood Restaurants,Man-made Attractions,Resorts,Yes
+21,Female,500,4,End of the year,Normal travel,Islands,Leisure activities,Booking a flight,Tour,Yes,Western/Steak house,Natural Attractions,Hotels,Yes
+21,Female,2300,2,Early of the year,Normal travel,Towns,Leisure activities,Trains,Self Explore,No,Seafood Restaurants,Cultural Attractions,Hotels,Yes
+21,Female,1000,3,End of the year,Normal travel,Islands,Outdoor activities,Personal Vehicle,Self Explore,Yes,Nasi padang/campur,Cultural Attractions,Chalets,Yes
+23,Female,1500,6,End of the year,Normal travel,Islands,Outdoor activities,Booking a flight,Self Explore,No,Seafood Restaurants,Cultural Attractions,Apartments,Yes
+20,Female,700,5,End of the year,Backpacking,Islands,Water activities,Trains,Self Explore,Yes,Western/Steak house,Natural Attractions,Hotels,Yes
+21,Female,2000,3,Middle of the year,Normal travel,Islands,Water activities,Personal Vehicle,Tour,Yes,Seafood Restaurants,Man-made Attractions,Resorts,Yes
+23,Female,1000,4,Middle of the year,Normal travel,Islands,Leisure activities,Personal Vehicle,Tour,Yes,Seafood Restaurants,Man-made Attractions,Hotels,Yes
+49,Female,1500,3,End of the year,Normal travel,Islands,Leisure activities,Personal Vehicle,Self Explore,No,Hotel buffet,Natural Attractions,Resorts,Yes
+25,Male,4500,7,End of the year,Backpacking,Towns,Leisure activities,Booking a flight,Tour,Yes,Hotel buffet,Man-made Attractions,Hotels,Yes
+36,Female,1200,3,End of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Western/Steak house,Man-made Attractions,Hotels,Yes
+50,Female,1000,3,Middle of the year,Backpacking,Towns,Leisure activities,Trains,Self Explore,Yes,Nasi padang/campur,Cultural Attractions,Resorts,Yes
+25,Male,1200,4,Middle of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Western/Steak house,Natural Attractions,Hotels,Yes
+27,Female,6000,5,Middle of the year,Backpacking,Towns,Outdoor activities,Busses,Self Explore,No,Nasi padang/campur,Natural Attractions,Hotels,Yes
+24,Male,1600,4,Early of the year,Normal travel,Towns,Water activities,Personal Vehicle,Self Explore,No,Nasi padang/campur,Cultural Attractions,Apartments,Yes
+24,Female,1500,3,Middle of the year,Normal travel,Islands,Water activities,Personal Vehicle,Self Explore,Yes,Nasi padang/campur,Man-made Attractions,Hotels,Yes
+21,Female,2000,5,Middle of the year,Normal travel,Islands,Outdoor activities,Personal Vehicle,Self Explore,Yes,Western/Steak house,Natural Attractions,Chalets,Yes
+36,Female,2000,5,Middle of the year,Normal travel,Islands,Leisure activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Man-made Attractions,Hotels,Yes
+21,Female,800,3,End of the year,Normal travel,Islands,Leisure activities,Personal Vehicle,Self Explore,Yes,Seafood Restaurants,Natural Attractions,Hotels,Yes
+21,Female,800,3,End of the year,Normal travel,Islands,Water activities,Booking a flight,Self Explore,Yes,Seafood Restaurants,Man-made Attractions,Resorts,Yes
+30,Female,3000,3,Middle of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Nasi padang/campur,Man-made Attractions,Hotels,No
+24,Male,1600,4,Early of the year,Normal travel,Towns,Water activities,Personal Vehicle,Self Explore,No,Western/Steak house,Cultural Attractions,Apartments,Yes
+26,Female,1500,4,End of the year,Normal travel,Towns,Outdoor activities,Personal Vehicle,Self Explore,No,Western/Steak house,Natural Attractions,Apartments,Yes
+18,Female,1,31,End of the year,Backpacking,Towns,Leisure activities,Busses,Self Explore,Yes,Hotel buffet,Natural Attractions,Hotels,Yes
+39,Female,2000,3,End of the year,Normal travel,Islands,Leisure activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Man-made Attractions,Hotels,Yes
+20,Female,700,5,End of the year,Backpacking,Islands,Water activities,Trains,Self Explore,Yes,Western/Steak house,Natural Attractions,Hotels,Yes
+21,Male,500,2,Middle of the year,Backpacking,Islands,Leisure activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Natural Attractions,Hotels,Yes
+21,Female,1500,4,End of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Nasi padang/campur,Man-made Attractions,Hotels,Yes
+45,Male,2000,7,Middle of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Natural Attractions,Apartments,Yes
+32,Female,1200,4,End of the year,Normal travel,Towns,Outdoor activities,Personal Vehicle,Self Explore,No,Western/Steak house,Natural Attractions,Apartments,Yes
+23,Female,5000,7,End of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,Yes,Seafood Restaurants,Natural Attractions,Resorts,Yes
+21,Male,500,2,End of the year,Normal travel,Islands,Leisure activities,E-hailing,Self Explore,No,Seafood Restaurants,Natural Attractions,Resorts,Yes
+22,Male,300,3,End of the year,Normal travel,Islands,Outdoor activities,Personal Vehicle,Tour,Yes,Seafood Restaurants,Natural Attractions,Chalets,Yes
+28,Female,1000,3,Middle of the year,Normal travel,Islands,Water activities,Personal Vehicle,Tour,Yes,Hotel buffet,Man-made Attractions,Resorts,Yes
+21,Female,2000,5,Middle of the year,Normal travel,Islands,Outdoor activities,Personal Vehicle,Self Explore,Yes,Western/Steak house,Natural Attractions,Chalets,Yes
+25,Male,1200,4,Middle of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Natural Attractions,Hotels,Yes
+21,Female,1500,4,End of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Nasi padang/campur,Man-made Attractions,Hotels,Yes
+21,Female,3500,4,Middle of the year,Normal travel,Islands,Leisure activities,Booking a flight,Self Explore,Yes,Seafood Restaurants,Cultural Attractions,Resorts,Yes
+21,Female,6500,5,End of the year,Normal travel,Islands,Water activities,Booking a flight,Self Explore,Yes,Seafood Restaurants,Natural Attractions,Resorts,Yes
+21,Female,2100,5,End of the year,Backpacking,Towns,Leisure activities,Trains,Self Explore,No,Western/Steak house,Man-made Attractions,Apartments,Yes
+21,Female,1000,7,End of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Tour,Yes,Seafood Restaurants,Cultural Attractions,Hotels,No
+20,Female,700,5,End of the year,Backpacking,Islands,Water activities,Trains,Self Explore,Yes,Western/Steak house,Natural Attractions,Hotels,Yes
+22,Male,1000,3,End of the year,Backpacking,Islands,Water activities,Personal Vehicle,Tour,Yes,Nasi padang/campur,Natural Attractions,Chalets,Yes
+21,Male,500,3,End of the year,Normal travel,Towns,Outdoor activities,Busses,Self Explore,No,Nasi padang/campur,Man-made Attractions,Chalets,Yes
+20,Female,3000,3,End of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Hotel buffet,Man-made Attractions,Resorts,Yes
+24,Male,200,5,Middle of the year,Normal travel,Islands,Leisure activities,Booking a flight,Self Explore,No,Western/Steak house,Cultural Attractions,Hotels,No
+18,Male,2500,3,Middle of the year,Normal travel,Islands,Water activities,Personal Vehicle,Tour,Yes,Nasi padang/campur,Man-made Attractions,Hotels,Yes
+21,Female,1000,3,End of the year,Normal travel,Islands,Water activities,Booking a flight,Tour,Yes,Western/Steak house,Natural Attractions,Hotels,Yes
+21,Female,3000,4,Middle of the year,Normal travel,Islands,Leisure activities,Personal Vehicle,Self Explore,No,Nasi padang/campur,Cultural Attractions,Hotels,No
+21,Female,1500,7,End of the year,Normal travel,Towns,Leisure activities,Booking a flight,Tour,Yes,Seafood Restaurants,Man-made Attractions,Hotels,Yes
+21,Male,500,3,Early of the year,Normal travel,Islands,Leisure activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Cultural Attractions,Resorts,No
+53,Female,1000,3,Middle of the year,Normal travel,Islands,Water activities,Personal Vehicle,Self Explore,Yes,Seafood Restaurants,Man-made Attractions,Hotels,Yes
+21,Female,3000,5,End of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Tour,Yes,Nasi padang/campur,Natural Attractions,Hotels,Yes
+28,Male,1600,4,Early of the year,Normal travel,Towns,Water activities,Personal Vehicle,Self Explore,No,Western/Steak house,Cultural Attractions,Apartments,Yes
+24,Male,1500,3,End of the year,Normal travel,Towns,Outdoor activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Man-made Attractions,Apartments,Yes
+21,Male,3000,14,End of the year,Normal travel,Islands,Water activities,Booking a flight,Self Explore,No,Seafood Restaurants,Cultural Attractions,Chalets,Yes
+24,Male,1600,4,Early of the year,Normal travel,Towns,Water activities,Personal Vehicle,Self Explore,No,Nasi padang/campur,Cultural Attractions,Apartments,Yes
+31,Male,800,4,Middle of the year,Normal travel,Towns,Water activities,Personal Vehicle,Self Explore,Yes,Seafood Restaurants,Man-made Attractions,Resorts,Yes
+25,Male,1200,4,Middle of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Natural Attractions,Hotels,Yes
+21,Female,2000,5,Middle of the year,Normal travel,Islands,Outdoor activities,Personal Vehicle,Self Explore,Yes,Western/Steak house,Natural Attractions,Chalets,Yes
+23,Male,1000,3,End of the year,Backpacking,Islands,Leisure activities,Personal Vehicle,Self Explore,Yes,Seafood Restaurants,Man-made Attractions,Resorts,Yes
+41,Female,2000,3,Middle of the year,Normal travel,Islands,Water activities,Booking a flight,Self Explore,Yes,Seafood Restaurants,Cultural Attractions,Resorts,Yes
+21,Female,2000,5,Middle of the year,Normal travel,Islands,Outdoor activities,Personal Vehicle,Self Explore,Yes,Western/Steak house,Natural Attractions,Chalets,Yes
+44,Male,2000,3,Middle of the year,Normal travel,Islands,Outdoor activities,Booking a flight,Tour,Yes,Hotel buffet,Natural Attractions,Hotels,Yes
+22,Female,500,3,Middle of the year,Normal travel,Islands,Outdoor activities,Personal Vehicle,Self Explore,Yes,Seafood Restaurants,Natural Attractions,Resorts,Yes
+19,Female,2000,7,End of the year,Normal travel,Towns,Leisure activities,Trains,Tour,Yes,Nasi padang/campur,Man-made Attractions,Hotels,Yes
+24,Male,1600,4,Early of the year,Normal travel,Towns,Water activities,Personal Vehicle,Self Explore,No,Nasi padang/campur,Cultural Attractions,Apartments,Yes
+21,Male,1000,3,End of the year,Normal travel,Towns,Water activities,Personal Vehicle,Self Explore,No,Western/Steak house,Man-made Attractions,Resorts,Yes
+67,Male,1000,5,Middle of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Tour,No,Seafood Restaurants,Natural Attractions,Resorts,Yes
+22,Female,10000,14,End of the year,Normal travel,Islands,Outdoor activities,Booking a flight,Tour,Yes,Seafood Restaurants,Natural Attractions,Resorts,Yes
+50,Female,1000,3,Middle of the year,Backpacking,Towns,Leisure activities,Trains,Self Explore,Yes,Nasi padang/campur,Cultural Attractions,Resorts,Yes
+21,Male,1000,3,End of the year,Normal travel,Islands,Outdoor activities,Personal Vehicle,Self Explore,No,Nasi padang/campur,Cultural Attractions,Chalets,No
+32,Female,1500,7,End of the year,Normal travel,Islands,Leisure activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Natural Attractions,Resorts,Yes
+21,Female,1500,3,End of the year,Normal travel,Islands,Outdoor activities,Personal Vehicle,Tour,Yes,Western/Steak house,Man-made Attractions,Resorts,Yes
+31,Male,800,4,Middle of the year,Normal travel,Towns,Water activities,Personal Vehicle,Self Explore,Yes,Seafood Restaurants,Man-made Attractions,Resorts,Yes
+21,Female,2000,5,Middle of the year,Normal travel,Islands,Outdoor activities,Personal Vehicle,Self Explore,Yes,Western/Steak house,Natural Attractions,Chalets,Yes
+25,Female,1200,3,End of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Western/Steak house,Man-made Attractions,Apartments,Yes
+21,Male,1000,4,End of the year,Normal travel,Islands,Water activities,Booking a flight,Tour,Yes,Hotel buffet,Natural Attractions,Resorts,Yes
+20,Female,700,5,End of the year,Backpacking,Islands,Water activities,Trains,Self Explore,Yes,Western/Steak house,Natural Attractions,Hotels,Yes
+21,Male,3000,14,End of the year,Normal travel,Islands,Water activities,Booking a flight,Self Explore,No,Seafood Restaurants,Cultural Attractions,Chalets,Yes
+45,Male,2000,7,Middle of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Natural Attractions,Apartments,Yes
+22,Male,5000,5,End of the year,Backpacking,Islands,Water activities,Booking a flight,Self Explore,Yes,Western/Steak house,Natural Attractions,Hotels,Yes
+25,Male,4500,7,End of the year,Backpacking,Towns,Leisure activities,Booking a flight,Tour,Yes,Hotel buffet,Man-made Attractions,Hotels,Yes
+22,Female,1500,3,End of the year,Normal travel,Islands,Water activities,Personal Vehicle,Self Explore,Yes,Seafood Restaurants,Cultural Attractions,Resorts,Yes
+25,Male,4500,7,End of the year,Backpacking,Towns,Leisure activities,Booking a flight,Tour,Yes,Hotel buffet,Man-made Attractions,Hotels,Yes
+29,Female,1200,3,End of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Western/Steak house,Man-made Attractions,Hotels,Yes
+36,Female,2000,3,End of the year,Normal travel,Islands,Leisure activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Man-made Attractions,Hotels,Yes
+24,Female,1500,3,Middle of the year,Normal travel,Islands,Water activities,Personal Vehicle,Self Explore,Yes,Nasi padang/campur,Man-made Attractions,Hotels,Yes
+29,Male,2000,5,Middle of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Nasi padang/campur,Natural Attractions,Resorts,Yes
+21,Female,1500,3,End of the year,Normal travel,Islands,Leisure activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Natural Attractions,Hotels,Yes
+26,Female,1400,4,End of the year,Normal travel,Towns,Outdoor activities,Personal Vehicle,Self Explore,No,Western/Steak house,Natural Attractions,Apartments,Yes
+23,Female,250,3,Middle of the year,Backpacking,Islands,Outdoor activities,Personal Vehicle,Tour,Yes,Hotel buffet,Man-made Attractions,Apartments,Yes
+21,Male,6000,14,End of the year,Backpacking,Islands,Outdoor activities,Personal Vehicle,Self Explore,Yes,Hotel buffet,Natural Attractions,Chalets,Yes
+21,Male,3000,11,Early of the year,Normal travel,Islands,Leisure activities,Trains,Tour,Yes,Western/Steak house,Man-made Attractions,Resorts,Yes
+21,Male,1000,4,End of the year,Normal travel,Islands,Outdoor activities,Trains,Self Explore,Yes,Seafood Restaurants,Man-made Attractions,Resorts,Yes
+21,Male,400,2,Middle of the year,Normal travel,Islands,Outdoor activities,Personal Vehicle,Self Explore,No,Nasi padang/campur,Natural Attractions,Resorts,No
+40,Male,100,3,Early of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,Yes,Hotel buffet,Natural Attractions,Hotels,Yes
+21,Male,1000,7,End of the year,Normal travel,Towns,Leisure activities,Booking a flight,Self Explore,No,Nasi padang/campur,Cultural Attractions,Hotels,No
+25,Male,1200,4,Middle of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Natural Attractions,Hotels,Yes
+19,Male,5000,7,End of the year,Normal travel,Towns,Leisure activities,Booking a flight,Self Explore,No,Seafood Restaurants,Cultural Attractions,Resorts,No
+22,Male,1000,5,Middle of the year,Backpacking,Islands,Outdoor activities,Personal Vehicle,Self Explore,Yes,Seafood Restaurants,Man-made Attractions,Resorts,Yes
+22,Female,2500,3,Middle of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Nasi padang/campur,Cultural Attractions,Apartments,Yes
+29,Male,1500,3,End of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Man-made Attractions,Apartments,Yes
+18,Female,1000,4,End of the year,Normal travel,Islands,Water activities,Personal Vehicle,Self Explore,Yes,Seafood Restaurants,Cultural Attractions,Resorts,Yes
+19,Female,600,3,Middle of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Tour,No,Nasi padang/campur,Man-made Attractions,Chalets,Yes
+27,Male,400,14,End of the year,Backpacking,Islands,Water activities,Booking a flight,Self Explore,Yes,Seafood Restaurants,Man-made Attractions,Resorts,Yes
+21,Female,350,3,End of the year,Normal travel,Islands,Leisure activities,Trains,Tour,Yes,Seafood Restaurants,Natural Attractions,Resorts,Yes
+21,Female,500,3,Early of the year,Normal travel,Islands,Water activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Natural Attractions,Resorts,Yes
+21,Female,200,1,Middle of the year,Normal travel,Towns,Outdoor activities,Booking a flight,Self Explore,No,Western/Steak house,Man-made Attractions,Hotels,Yes
+21,Male,1600,3,End of the year,Backpacking,Islands,Outdoor activities,Personal Vehicle,Self Explore,Yes,Western/Steak house,Cultural Attractions,Hotels,Yes
+21,Female,5000,5,End of the year,Normal travel,Towns,Leisure activities,Booking a flight,Tour,Yes,Hotel buffet,Cultural Attractions,Resorts,Yes
+24,Male,1600,4,Early of the year,Normal travel,Towns,Water activities,Personal Vehicle,Self Explore,No,Nasi padang/campur,Cultural Attractions,Apartments,Yes
+23,Female,1500,4,Middle of the year,Normal travel,Islands,Water activities,Booking a flight,Self Explore,Yes,Hotel buffet,Cultural Attractions,Resorts,Yes
+18,Male,3000,3,Early of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Tour,Yes,Western/Steak house,Natural Attractions,Hotels,No
+24,Female,1500,3,Middle of the year,Normal travel,Islands,Water activities,Personal Vehicle,Self Explore,Yes,Nasi padang/campur,Man-made Attractions,Hotels,Yes
+38,Male,5000,5,Middle of the year,Normal travel,Islands,Leisure activities,Booking a flight,Tour,Yes,Seafood Restaurants,Cultural Attractions,Resorts,Yes
+54,Female,2000,5,End of the year,Normal travel,Islands,Leisure activities,Booking a flight,Tour,Yes,Hotel buffet,Cultural Attractions,Hotels,Yes
+38,Male,1500,4,End of the year,Normal travel,Islands,Water activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Natural Attractions,Apartments,No
+23,Female,2000,5,End of the year,Normal travel,Islands,Water activities,Booking a flight,Self Explore,No,Seafood Restaurants,Man-made Attractions,Hotels,Yes
+28,Male,3000,3,End of the year,Normal travel,Towns,Outdoor activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Man-made Attractions,Hotels,No
+21,Male,1500,7,Early of the year,Normal travel,Towns,Leisure activities,Booking a flight,Self Explore,No,Western/Steak house,Man-made Attractions,Resorts,Yes
+24,Female,1500,3,Middle of the year,Normal travel,Islands,Water activities,Personal Vehicle,Self Explore,Yes,Nasi padang/campur,Man-made Attractions,Hotels,Yes
+29,Male,1500,3,End of the year,Normal travel,Towns,Outdoor activities,Personal Vehicle,Self Explore,No,Western/Steak house,Man-made Attractions,Apartments,Yes
+24,Male,1600,4,Early of the year,Normal travel,Towns,Water activities,Personal Vehicle,Self Explore,No,Western/Steak house,Cultural Attractions,Apartments,Yes
+22,Female,4000,4,End of the year,Normal travel,Islands,Leisure activities,Trains,Self Explore,No,Western/Steak house,Man-made Attractions,Hotels,Yes
+21,Male,1000,3,End of the year,Normal travel,Islands,Water activities,Personal Vehicle,Self Explore,No,Nasi padang/campur,Man-made Attractions,Resorts,Yes
+24,Male,1600,4,Early of the year,Backpacking,Towns,Outdoor activities,Trains,Self Explore,No,Nasi padang/campur,Natural Attractions,Apartments,Yes
+25,Male,5000,14,End of the year,Normal travel,Towns,Leisure activities,Booking a flight,Self Explore,Yes,Seafood Restaurants,Man-made Attractions,Hotels,Yes
+29,Female,1200,3,End of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Western/Steak house,Man-made Attractions,Hotels,Yes
+53,Male,1500,3,Early of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Tour,Yes,Seafood Restaurants,Natural Attractions,Hotels,Yes
+21,Female,5000,3,Middle of the year,Normal travel,Towns,Leisure activities,Trains,Self Explore,No,Seafood Restaurants,Man-made Attractions,Hotels,Yes
+21,Female,2000,5,Middle of the year,Normal travel,Islands,Outdoor activities,Personal Vehicle,Self Explore,Yes,Western/Steak house,Natural Attractions,Chalets,Yes
+27,Male,1600,4,Middle of the year,Normal travel,Towns,Water activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Natural Attractions,Chalets,Yes
+21,Male,500,3,Middle of the year,Backpacking,Islands,Water activities,Personal Vehicle,Self Explore,Yes,Western/Steak house,Cultural Attractions,Resorts,No
+21,Male,3000,14,End of the year,Normal travel,Islands,Water activities,Booking a flight,Self Explore,No,Seafood Restaurants,Cultural Attractions,Chalets,Yes
+21,Female,4000,4,End of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Nasi padang/campur,Man-made Attractions,Hotels,Yes
+26,Female,1500,4,End of the year,Normal travel,Towns,Outdoor activities,Personal Vehicle,Self Explore,No,Western/Steak house,Natural Attractions,Apartments,Yes
+24,Male,1600,4,Early of the year,Normal travel,Towns,Water activities,Personal Vehicle,Self Explore,No,Nasi padang/campur,Cultural Attractions,Apartments,Yes
+21,Female,400,4,Early of the year,Normal travel,Islands,Leisure activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Man-made Attractions,Hotels,Yes
+23,Male,2000,3,End of the year,Normal travel,Islands,Leisure activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Man-made Attractions,Resorts,Yes
+21,Female,2000,5,Middle of the year,Normal travel,Islands,Outdoor activities,Personal Vehicle,Self Explore,Yes,Western/Steak house,Natural Attractions,Chalets,Yes
+22,Female,2500,5,End of the year,Normal travel,Islands,Water activities,Personal Vehicle,Self Explore,Yes,Hotel buffet,Cultural Attractions,Hotels,Yes
+48,Male,1000,3,End of the year,Normal travel,Islands,Water activities,Booking a flight,Tour,Yes,Nasi padang/campur,Natural Attractions,Chalets,Yes
+25,Male,1200,4,Middle of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Natural Attractions,Hotels,Yes
+21,Male,1500,5,End of the year,Backpacking,Islands,Outdoor activities,Trains,Self Explore,Yes,Nasi padang/campur,Man-made Attractions,Hotels,Yes
+21,Male,5000,10,Early of the year,Backpacking,Towns,Leisure activities,Booking a flight,Tour,Yes,Hotel buffet,Man-made Attractions,Hotels,Yes
+23,Male,800,3,End of the year,Normal travel,Islands,Water activities,Personal Vehicle,Self Explore,No,Western/Steak house,Man-made Attractions,Hotels,Yes
+49,Female,1500,3,End of the year,Normal travel,Islands,Leisure activities,Personal Vehicle,Self Explore,No,Hotel buffet,Natural Attractions,Resorts,Yes
+27,Male,5000,7,End of the year,Backpacking,Islands,Water activities,Booking a flight,Tour,Yes,Seafood Restaurants,Man-made Attractions,Resorts,Yes
+54,Male,3000,7,End of the year,Normal travel,Towns,Leisure activities,E-hailing,Tour,Yes,Seafood Restaurants,Man-made Attractions,Hotels,Yes
+21,Female,500,3,End of the year,Normal travel,Islands,Outdoor activities,Personal Vehicle,Self Explore,Yes,Nasi padang/campur,Natural Attractions,Apartments,Yes
+45,Male,2000,7,Middle of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Natural Attractions,Apartments,Yes
+34,Female,1000,5,Middle of the year,Backpacking,Islands,Leisure activities,Booking a flight,Self Explore,Yes,Seafood Restaurants,Natural Attractions,Hotels,Yes
+23,Female,5000,5,End of the year,Normal travel,Islands,Leisure activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Man-made Attractions,Resorts,Yes
+21,Female,500,3,Middle of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Natural Attractions,Hotels,Yes
+21,Male,3000,14,End of the year,Normal travel,Islands,Water activities,Booking a flight,Self Explore,No,Seafood Restaurants,Cultural Attractions,Chalets,Yes
+24,Male,1600,4,Early of the year,Backpacking,Towns,Outdoor activities,Trains,Self Explore,No,Nasi padang/campur,Natural Attractions,Apartments,Yes
+21,Female,3000,11,End of the year,Normal travel,Towns,Leisure activities,Booking a flight,Tour,Yes,Nasi padang/campur,Natural Attractions,Hotels,Yes
+49,Female,1500,3,End of the year,Normal travel,Islands,Leisure activities,Personal Vehicle,Self Explore,No,Hotel buffet,Natural Attractions,Resorts,Yes
+21,Female,2000,5,End of the year,Normal travel,Islands,Outdoor activities,Personal Vehicle,Tour,Yes,Hotel buffet,Natural Attractions,Apartments,Yes
+25,Male,4500,7,End of the year,Backpacking,Towns,Leisure activities,Booking a flight,Tour,Yes,Hotel buffet,Man-made Attractions,Hotels,Yes
+22,Female,1200,3,End of the year,Normal travel,Islands,Water activities,Busses,Self Explore,No,Nasi padang/campur,Cultural Attractions,Chalets,No
+29,Female,1200,3,End of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Western/Steak house,Man-made Attractions,Hotels,Yes
+19,Female,5000,5,End of the year,Normal travel,Towns,Outdoor activities,Personal Vehicle,Tour,Yes,Western/Steak house,Man-made Attractions,Hotels,Yes
+25,Male,1500,6,Early of the year,Normal travel,Towns,Outdoor activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Man-made Attractions,Apartments,Yes
+32,Female,1200,4,End of the year,Normal travel,Towns,Outdoor activities,Personal Vehicle,Self Explore,No,Western/Steak house,Natural Attractions,Apartments,Yes
+21,Male,2000,5,End of the year,Backpacking,Islands,Water activities,Booking a flight,Self Explore,Yes,Western/Steak house,Natural Attractions,Chalets,Yes
+19,Male,50000,5,Early of the year,Normal travel,Islands,Outdoor activities,E-hailing,Self Explore,Yes,Seafood Restaurants,Cultural Attractions,Resorts,Yes
+49,Female,1500,3,End of the year,Normal travel,Islands,Leisure activities,Personal Vehicle,Self Explore,No,Hotel buffet,Natural Attractions,Resorts,Yes
+21,Male,500,3,End of the year,Normal travel,Towns,Outdoor activities,Busses,Self Explore,No,Nasi padang/campur,Man-made Attractions,Chalets,Yes
+24,Male,1600,4,Early of the year,Normal travel,Towns,Water activities,Personal Vehicle,Self Explore,No,Nasi padang/campur,Cultural Attractions,Apartments,Yes
+50,Female,1000,3,Middle of the year,Backpacking,Towns,Leisure activities,Trains,Self Explore,Yes,Nasi padang/campur,Cultural Attractions,Resorts,Yes
+21,Male,500,3,End of the year,Normal travel,Towns,Outdoor activities,Busses,Self Explore,No,Nasi padang/campur,Man-made Attractions,Chalets,Yes
+22,Male,500,5,End of the year,Normal travel,Islands,Outdoor activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Natural Attractions,Hotels,Yes
+25,Male,1200,4,Middle of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Western/Steak house,Natural Attractions,Hotels,Yes
+31,Male,1000,3,End of the year,Normal travel,Islands,Water activities,Booking a flight,Self Explore,No,Seafood Restaurants,Man-made Attractions,Hotels,Yes
+24,Male,1600,4,Early of the year,Normal travel,Towns,Water activities,Personal Vehicle,Self Explore,No,Western/Steak house,Cultural Attractions,Apartments,Yes
+35,Female,3000,3,Early of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Man-made Attractions,Hotels,Yes
+21,Female,300,3,Middle of the year,Backpacking,Islands,Leisure activities,Booking a flight,Self Explore,No,Western/Steak house,Man-made Attractions,Hotels,No
+25,Male,1200,4,Middle of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Natural Attractions,Hotels,Yes
+45,Male,2000,7,Middle of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Natural Attractions,Apartments,Yes
+24,Male,10000,30,End of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,Yes,Western/Steak house,Man-made Attractions,Resorts,Yes
+24,Female,1500,3,Middle of the year,Normal travel,Islands,Water activities,Personal Vehicle,Self Explore,Yes,Nasi padang/campur,Man-made Attractions,Hotels,Yes
+20,Female,700,5,End of the year,Backpacking,Islands,Water activities,Trains,Self Explore,Yes,Western/Steak house,Natural Attractions,Hotels,Yes
+21,Female,200,1,Middle of the year,Normal travel,Towns,Outdoor activities,Booking a flight,Self Explore,No,Western/Steak house,Man-made Attractions,Hotels,Yes
+24,Male,1500,6,Early of the year,Normal travel,Towns,Outdoor activities,Personal Vehicle,Self Explore,Yes,Seafood Restaurants,Natural Attractions,Apartments,Yes
+19,Male,3000,7,Middle of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Western/Steak house,Cultural Attractions,Hotels,Yes
+21,Female,1000,3,End of the year,Normal travel,Islands,Leisure activities,Trains,Self Explore,Yes,Western/Steak house,Man-made Attractions,Hotels,Yes
+54,Female,5000,8,Middle of the year,Normal travel,Towns,Leisure activities,Trains,Self Explore,Yes,Seafood Restaurants,Cultural Attractions,Chalets,Yes
+24,Female,1500,3,Middle of the year,Normal travel,Islands,Water activities,Personal Vehicle,Self Explore,Yes,Nasi padang/campur,Man-made Attractions,Hotels,Yes
+26,Male,600,4,Early of the year,Normal travel,Towns,Leisure activities,E-hailing,Self Explore,No,Hotel buffet,Cultural Attractions,Hotels,Yes
+24,Male,1600,4,Early of the year,Backpacking,Towns,Outdoor activities,Trains,Self Explore,No,Nasi padang/campur,Natural Attractions,Apartments,Yes
+24,Female,200,2,Middle of the year,Normal travel,Islands,Outdoor activities,Trains,Self Explore,Yes,Seafood Restaurants,Natural Attractions,Chalets,Yes
+21,Male,3000,14,End of the year,Normal travel,Islands,Water activities,Booking a flight,Self Explore,No,Seafood Restaurants,Cultural Attractions,Chalets,Yes
+23,Male,500,3,Early of the year,Normal travel,Islands,Water activities,Personal Vehicle,Tour,Yes,Seafood Restaurants,Natural Attractions,Chalets,Yes
+19,Male,1500,14,End of the year,Backpacking,Towns,Outdoor activities,E-hailing,Self Explore,Yes,Western/Steak house,Man-made Attractions,Hotels,Yes
+21,Female,2000,5,End of the year,Normal travel,Towns,Water activities,Booking a flight,Tour,Yes,Nasi padang/campur,Natural Attractions,Hotels,Yes
+21,Male,1000,3,Middle of the year,Backpacking,Islands,Outdoor activities,Personal Vehicle,Self Explore,No,Nasi padang/campur,Natural Attractions,Apartments,Yes
+16,Male,1000,3,End of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,Yes,Western/Steak house,Man-made Attractions,Hotels,No
+29,Female,1200,3,End of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Western/Steak house,Man-made Attractions,Hotels,Yes
+21,Male,2000,3,End of the year,Normal travel,Islands,Leisure activities,Booking a flight,Self Explore,No,Hotel buffet,Cultural Attractions,Resorts,Yes
+20,Female,700,5,End of the year,Backpacking,Islands,Water activities,Trains,Self Explore,Yes,Western/Steak house,Natural Attractions,Hotels,Yes
+19,Female,5000,5,End of the year,Normal travel,Towns,Outdoor activities,Personal Vehicle,Tour,Yes,Western/Steak house,Man-made Attractions,Hotels,Yes
+22,Female,2500,4,End of the year,Normal travel,Islands,Water activities,Booking a flight,Tour,Yes,Western/Steak house,Man-made Attractions,Resorts,Yes
+24,Female,1500,3,Middle of the year,Normal travel,Islands,Water activities,Personal Vehicle,Self Explore,Yes,Nasi padang/campur,Man-made Attractions,Hotels,Yes
+20,Female,1000,3,Middle of the year,Normal travel,Towns,Leisure activities,Booking a flight,Tour,Yes,Western/Steak house,Man-made Attractions,Resorts,Yes
+50,Female,2000,4,End of the year,Normal travel,Islands,Leisure activities,Personal Vehicle,Self Explore,No,Nasi padang/campur,Natural Attractions,Apartments,Yes
+54,Female,3000,5,Middle of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Cultural Attractions,Hotels,Yes
+19,Male,1500,14,End of the year,Backpacking,Towns,Outdoor activities,E-hailing,Self Explore,Yes,Western/Steak house,Man-made Attractions,Hotels,Yes
+19,Male,1500,14,End of the year,Backpacking,Towns,Outdoor activities,E-hailing,Self Explore,Yes,Western/Steak house,Man-made Attractions,Hotels,Yes
+24,Male,1600,4,Early of the year,Backpacking,Towns,Outdoor activities,Trains,Self Explore,No,Nasi padang/campur,Natural Attractions,Apartments,Yes
+21,Female,2000,5,End of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Western/Steak house,Cultural Attractions,Hotels,Yes
+24,Male,1600,4,Early of the year,Backpacking,Towns,Outdoor activities,Trains,Self Explore,No,Nasi padang/campur,Natural Attractions,Apartments,Yes
+48,Female,5000,5,Middle of the year,Normal travel,Islands,Water activities,Personal Vehicle,Self Explore,No,Nasi padang/campur,Natural Attractions,Apartments,Yes
+34,Male,3000,4,Middle of the year,Normal travel,Towns,Leisure activities,Booking a flight,Self Explore,No,Seafood Restaurants,Natural Attractions,Hotels,No
+27,Male,1200,3,Middle of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Western/Steak house,Man-made Attractions,Apartments,Yes
+21,Female,500,3,End of the year,Normal travel,Islands,Leisure activities,Personal Vehicle,Self Explore,No,Nasi padang/campur,Natural Attractions,Resorts,Yes
+21,Female,1500,7,End of the year,Normal travel,Towns,Leisure activities,Booking a flight,Tour,Yes,Seafood Restaurants,Man-made Attractions,Hotels,Yes
+21,Female,1000,5,End of the year,Normal travel,Islands,Water activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Natural Attractions,Hotels,Yes
+28,Female,1200,3,End of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Western/Steak house,Man-made Attractions,Hotels,Yes
+25,Male,5000,4,Middle of the year,Normal travel,Islands,Water activities,Booking a flight,Tour,Yes,Seafood Restaurants,Cultural Attractions,Apartments,Yes
+49,Female,1500,3,End of the year,Normal travel,Islands,Leisure activities,Personal Vehicle,Self Explore,No,Hotel buffet,Natural Attractions,Resorts,Yes
+24,Male,1600,4,Early of the year,Normal travel,Towns,Water activities,Personal Vehicle,Self Explore,No,Nasi padang/campur,Cultural Attractions,Apartments,Yes
+22,Female,1500,5,End of the year,Normal travel,Islands,Water activities,Personal Vehicle,Self Explore,No,Western/Steak house,Man-made Attractions,Hotels,Yes
+27,Male,2000,7,End of the year,Backpacking,Islands,Outdoor activities,Booking a flight,Self Explore,Yes,Seafood Restaurants,Man-made Attractions,Resorts,Yes
+19,Male,1500,14,End of the year,Backpacking,Towns,Outdoor activities,E-hailing,Self Explore,Yes,Western/Steak house,Man-made Attractions,Hotels,Yes
+47,Male,600,3,Middle of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,Yes,Seafood Restaurants,Man-made Attractions,Apartments,Yes
+22,Female,1000,3,End of the year,Normal travel,Islands,Leisure activities,Personal Vehicle,Tour,No,Seafood Restaurants,Man-made Attractions,Apartments,Yes
+29,Female,1200,3,End of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Western/Steak house,Man-made Attractions,Hotels,Yes
+21,Male,350,3,End of the year,Backpacking,Islands,Outdoor activities,Booking a flight,Self Explore,Yes,Nasi padang/campur,Man-made Attractions,Apartments,Yes
+22,Female,1500,7,Early of the year,Normal travel,Towns,Leisure activities,Booking a flight,Self Explore,Yes,Seafood Restaurants,Man-made Attractions,Hotels,Yes
+21,Female,200,1,Middle of the year,Normal travel,Towns,Outdoor activities,Booking a flight,Self Explore,No,Western/Steak house,Man-made Attractions,Hotels,Yes
+21,Female,2000,5,Middle of the year,Normal travel,Islands,Outdoor activities,Personal Vehicle,Self Explore,Yes,Western/Steak house,Natural Attractions,Chalets,Yes
+21,Female,200,1,Middle of the year,Normal travel,Towns,Outdoor activities,Booking a flight,Self Explore,No,Western/Steak house,Man-made Attractions,Hotels,Yes
+26,Male,500,3,End of the year,Normal travel,Islands,Leisure activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Natural Attractions,Resorts,Yes
+21,Female,1500,7,End of the year,Normal travel,Towns,Leisure activities,Booking a flight,Tour,Yes,Seafood Restaurants,Man-made Attractions,Hotels,Yes
+24,Male,1600,4,Early of the year,Normal travel,Towns,Water activities,Personal Vehicle,Self Explore,No,Nasi padang/campur,Cultural Attractions,Apartments,Yes
+24,Male,1600,4,Early of the year,Normal travel,Towns,Water activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Cultural Attractions,Apartments,Yes
+21,Male,3000,7,End of the year,Backpacking,Towns,Leisure activities,Personal Vehicle,Self Explore,Yes,Nasi padang/campur,Man-made Attractions,Resorts,Yes
+25,Male,4500,7,End of the year,Backpacking,Towns,Leisure activities,Booking a flight,Tour,Yes,Hotel buffet,Man-made Attractions,Hotels,Yes
+22,Female,500,2,End of the year,Normal travel,Islands,Water activities,Personal Vehicle,Self Explore,No,Nasi padang/campur,Cultural Attractions,Hotels,Yes
+20,Female,700,5,End of the year,Backpacking,Islands,Water activities,Trains,Self Explore,Yes,Western/Steak house,Natural Attractions,Hotels,Yes
+21,Female,3000,3,Middle of the year,Normal travel,Islands,Outdoor activities,Personal Vehicle,Tour,Yes,Western/Steak house,Cultural Attractions,Hotels,Yes
+21,Female,1500,3,End of the year,Backpacking,Towns,Leisure activities,Trains,Self Explore,No,Western/Steak house,Man-made Attractions,Hotels,Yes
+24,Female,4000,7,End of the year,Backpacking,Islands,Water activities,Booking a flight,Tour,Yes,Seafood Restaurants,Man-made Attractions,Resorts,Yes
+21,Female,1500,3,Middle of the year,Normal travel,Islands,Leisure activities,Personal Vehicle,Self Explore,Yes,Seafood Restaurants,Natural Attractions,Resorts,No
+21,Female,2000,4,End of the year,Normal travel,Islands,Outdoor activities,Booking a flight,Self Explore,Yes,Hotel buffet,Natural Attractions,Hotels,Yes
+25,Male,1200,4,Middle of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Natural Attractions,Hotels,Yes
+21,Female,1500,7,End of the year,Normal travel,Towns,Leisure activities,Booking a flight,Tour,Yes,Seafood Restaurants,Man-made Attractions,Hotels,Yes
+21,Female,3000,5,End of the year,Normal travel,Towns,Leisure activities,E-hailing,Self Explore,No,Seafood Restaurants,Cultural Attractions,Hotels,Yes
+28,Female,5000,3,End of the year,Normal travel,Towns,Leisure activities,Booking a flight,Self Explore,No,Western/Steak house,Man-made Attractions,Hotels,Yes
+21,Male,500,4,End of the year,Backpacking,Islands,Outdoor activities,Personal Vehicle,Self Explore,Yes,Seafood Restaurants,Natural Attractions,Chalets,Yes
+23,Female,3000,5,End of the year,Normal travel,Islands,Leisure activities,Booking a flight,Self Explore,Yes,Seafood Restaurants,Natural Attractions,Resorts,Yes
+21,Female,2500,3,End of the year,Normal travel,Islands,Leisure activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Man-made Attractions,Hotels,Yes
+61,Male,1200,3,Middle of the year,Backpacking,Islands,Leisure activities,Booking a flight,Tour,No,Hotel buffet,Natural Attractions,Hotels,Yes
+24,Male,3000,7,End of the year,Backpacking,Islands,Outdoor activities,Trains,Self Explore,Yes,Seafood Restaurants,Natural Attractions,Resorts,Yes
+19,Male,2500,5,Early of the year,Normal travel,Islands,Water activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Natural Attractions,Resorts,Yes
+21,Female,3000,4,Middle of the year,Normal travel,Islands,Water activities,Personal Vehicle,Tour,Yes,Nasi padang/campur,Natural Attractions,Apartments,Yes
+19,Male,1500,14,End of the year,Backpacking,Towns,Outdoor activities,E-hailing,Self Explore,Yes,Western/Steak house,Man-made Attractions,Hotels,Yes
+21,Female,1000,4,Middle of the year,Normal travel,Towns,Outdoor activities,Trains,Self Explore,No,Hotel buffet,Natural Attractions,Hotels,Yes
+21,Female,1000,5,End of the year,Normal travel,Islands,Water activities,Personal Vehicle,Self Explore,Yes,Seafood Restaurants,Natural Attractions,Resorts,Yes
+27,Male,1100,2,Middle of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Hotel buffet,Man-made Attractions,Hotels,Yes
+21,Female,800,3,Middle of the year,Backpacking,Islands,Water activities,Booking a flight,Tour,No,Western/Steak house,Natural Attractions,Hotels,Yes
+21,Female,2000,4,End of the year,Normal travel,Islands,Water activities,Personal Vehicle,Tour,Yes,Seafood Restaurants,Man-made Attractions,Hotels,Yes
+54,Female,3000,7,Middle of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Cultural Attractions,Chalets,Yes
+20,Female,900,3,Middle of the year,Backpacking,Islands,Water activities,Personal Vehicle,Self Explore,Yes,Seafood Restaurants,Natural Attractions,Resorts,Yes
+21,Male,2500,9,Middle of the year,Normal travel,Towns,Leisure activities,Booking a flight,Self Explore,No,Seafood Restaurants,Natural Attractions,Hotels,Yes
+22,Female,500,4,Middle of the year,Normal travel,Towns,Leisure activities,Trains,Self Explore,No,Western/Steak house,Natural Attractions,Hotels,Yes
+44,Female,2000,4,Early of the year,Normal travel,Islands,Water activities,Personal Vehicle,Self Explore,No,Nasi padang/campur,Man-made Attractions,Hotels,Yes
+25,Male,4500,7,End of the year,Backpacking,Towns,Leisure activities,Booking a flight,Tour,Yes,Hotel buffet,Man-made Attractions,Hotels,Yes
+20,Female,700,5,End of the year,Backpacking,Islands,Water activities,Trains,Self Explore,Yes,Western/Steak house,Natural Attractions,Hotels,Yes
+49,Female,1500,3,End of the year,Normal travel,Islands,Leisure activities,Personal Vehicle,Self Explore,No,Hotel buffet,Natural Attractions,Resorts,Yes
+45,Female,2000,3,End of the year,Normal travel,Islands,Outdoor activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Man-made Attractions,Resorts,Yes
+21,Male,1000,3,Middle of the year,Normal travel,Islands,Water activities,Personal Vehicle,Self Explore,Yes,Hotel buffet,Natural Attractions,Hotels,Yes
+22,Female,2000,3,Middle of the year,Normal travel,Islands,Leisure activities,Personal Vehicle,Self Explore,No,Western/Steak house,Natural Attractions,Hotels,Yes
+20,Female,5000,7,Early of the year,Normal travel,Islands,Water activities,Busses,Self Explore,Yes,Hotel buffet,Man-made Attractions,Hotels,Yes
+21,Female,2000,5,Middle of the year,Normal travel,Islands,Outdoor activities,Personal Vehicle,Self Explore,Yes,Western/Steak house,Natural Attractions,Chalets,Yes
+21,Female,2000,10,End of the year,Normal travel,Islands,Leisure activities,Personal Vehicle,Self Explore,Yes,Western/Steak house,Man-made Attractions,Chalets,No
+21,Female,1000,7,End of the year,Normal travel,Islands,Leisure activities,Booking a flight,Tour,No,Western/Steak house,Natural Attractions,Apartments,Yes
+21,Male,3000,7,Middle of the year,Normal travel,Islands,Water activities,Personal Vehicle,Self Explore,Yes,Nasi padang/campur,Man-made Attractions,Resorts,Yes
+55,Male,10000,14,Early of the year,Normal travel,Towns,Outdoor activities,Busses,Tour,Yes,Seafood Restaurants,Natural Attractions,Resorts,Yes
+27,Male,1200,3,Middle of the year,Normal travel,Towns,Leisure activities,Personal Vehicle,Self Explore,No,Seafood Restaurants,Man-made Attractions,Apartments,Yes
+24,Female,1500,3,Middle of the year,Normal travel,Islands,Water activities,Personal Vehicle,Self Explore,Yes,Nasi padang/campur,Man-made Attractions,Hotels,Yes
+21,Female,500,3,End of the year,Normal travel,Islands,Leisure activities,Booking a flight,Tour,Yes,Seafood Restaurants,Cultural Attractions,Resorts,Yes
